@@ -1,0 +1,6 @@
+Flask==2.1.1
+werkzeug==2.3.0
+line-bot-sdk==3.14.2
+gunicorn==20.1.0
+tensorflow-cpu
+
