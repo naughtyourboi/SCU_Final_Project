@@ -6,4 +6,6 @@
 ### To enhance the interactive experience, we implemented Carousel Template and Image Template designs for message responses. The Carousel Template provides a multi-card carousel with text and image options, where each card includes a title, image, and buttons that guide users to explore more details or external resources. The Image Template displays a preview video of the tour location, allowing users to click and watch, enriching the visual aspect of the campus tour. These templates, combined with multimedia presentations, offer users a more engaging and interactive campus tour experience.
 ### Additionally, the system design integrates HWID with the campus tour database to ensure efficient message queries. The Flask application was deployed on the Render platform to provide stable Webhook services. Furthermore, the video carousel feature enhances interactivity, enabling users to quickly browse campus tour videos. The overall design seamlessly integrates the beacon with the Line Bot, delivering an intuitive and vivid tour experience to users.
 # ngrok.ipynb
-### install all the packages we need
+### Process IP.
+# requirements.txt
+### install all the packages we need.
