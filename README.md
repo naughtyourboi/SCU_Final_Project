@@ -17,4 +17,5 @@
 ### Install all the packages we need.
 
 # Additional information
+### Our goal is to let everybody know our campus at anytime and easily
 ### Line is a communication app similar to Messages, and it is popular in Korea, Taiwan and Japan.
